@@ -1,0 +1,125 @@
+{
+    "corridas_2023": [
+      {
+        "corrida": "Grande Prêmio da Austrália",
+        "data": "2023-03-19",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio do Bahrein",
+        "data": "2023-03-26",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio da China",
+        "data": "2023-04-09",
+        "vencedor": "Valtteri Bottas",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio da Espanha",
+        "data": "2023-04-23",
+        "vencedor": "Charles Leclerc",
+        "equipe_vencedora": "Ferrari"
+      },
+      {
+        "corrida": "Grande Prêmio de Mônaco",
+        "data": "2023-05-07",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio do Canadá",
+        "data": "2023-05-21",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio da França",
+        "data": "2023-06-11",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio da Áustria",
+        "data": "2023-06-25",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio da Grã-Bretanha",
+        "data": "2023-07-09",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio da Hungria",
+        "data": "2023-07-23",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio da Bélgica",
+        "data": "2023-08-06",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio da Holanda",
+        "data": "2023-08-20",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio da Itália",
+        "data": "2023-09-03",
+        "vencedor": "Charles Leclerc",
+        "equipe_vencedora": "Ferrari"
+      },
+      {
+        "corrida": "Grande Prêmio de Cingapura",
+        "data": "2023-09-17",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio da Rússia",
+        "data": "2023-10-01",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio do Japão",
+        "data": "2023-10-15",
+        "vencedor": "Valtteri Bottas",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio dos Estados Unidos",
+        "data": "2023-10-29",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio do México",
+        "data": "2023-11-12",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      },
+      {
+        "corrida": "Grande Prêmio do Brasil",
+        "data": "2023-11-26",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing"
+      },
+      {
+        "corrida": "Grande Prêmio de Abu Dhabi",
+        "data": "2023-12-03",
+        "vencedor": "Lewis Hamilton",
+        "equipe_vencedora": "Mercedes"
+      }
+    ]
+  }
+  
